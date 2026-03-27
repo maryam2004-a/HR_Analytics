@@ -16,7 +16,8 @@ Power BI project analyzing HR attrition data to identify patterns and insights.
 Dataset used: WA_Fn-UseC_-HR-Employee-Attrition.csv (public dataset)
 
 ## Screenshots
-![Dashboard Screenshot](screenshots/dashboard.png)
+<img width="1416" height="798" alt="Screenshot_dashboard" src="https://github.com/user-attachments/assets/4fa9808e-ec44-4cd4-bee4-78f2e3c0c928" />
+
 
 ## Author
 Mariam Attia
